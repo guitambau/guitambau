@@ -1,9 +1,9 @@
 Bom meu nome é Guilherme Perfeito,
 sou estudante de Banco de dados na FATEC Sjc.
 
-Hoje sou estagiario na APTIV - Jambeiro
+Estagiario na APTIV - Jambeiro
 
-Desenvolvedor Junior.
+Desenvolvedor Back-End Junior.
 
 <!---
 guitambau/guitambau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -27,6 +27,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+  
+  ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guitambau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guitambau&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!---
 guitambau/guitambau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
